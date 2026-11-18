@@ -4,7 +4,7 @@ The admin side of a plant store, built with **React** and **Vite**. The app conn
 
 ## Screenshot
 
-![Plantsy screenshot](screenshot.png)
+![Plantsy screenshot](plantshop.png)
 
 ## Features
 
@@ -44,8 +44,8 @@ You need [Node.js](https://nodejs.org/) (v18 or newer) and npm.
 
 ```bash
 # 1. Clone your fork
-git clone <your-repo-url>
-cd <your-repo-folder>
+git clone https://github.com/kuriajosh777/plantshop.git
+cd plantshop
 
 # 2. Install dependencies
 npm install
